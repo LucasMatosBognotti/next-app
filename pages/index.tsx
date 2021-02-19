@@ -19,7 +19,7 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          01001100 01110101 01100011 01100001 01110011  
+          01001100 01110101 01100011 01110011 01100001
         </p>
       </main>
       {/*
