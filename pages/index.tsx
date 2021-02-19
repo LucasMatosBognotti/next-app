@@ -15,6 +15,21 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
+          Para continuar decodifique os binarios
+        </p>
+
+        <p className={styles.description}>
+          01001100 01110101 01100011 01110011 01100001 
+        </p>
+        
+      </main>
+      {/*
+      <main className={styles.main}>
+        <h1 className={styles.title}>
+          Hello World !!!!!
+        </h1>
+
+        <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
@@ -49,7 +64,7 @@ export default function Home() {
           </a>
         </div>
       </main>
-
+          
       <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
@@ -60,6 +75,7 @@ export default function Home() {
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
+      */}
     </div>
   )
 }
