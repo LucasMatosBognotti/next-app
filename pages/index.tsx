@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Para continuar decodifique os binarios
+          Para continuar, decodifique o binari.
         </p>
 
         <p className={styles.description}>
