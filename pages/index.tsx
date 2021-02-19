@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          QUE OS JOGOS COmMECEM !!!!!
+          Bem-vindo a ETAPA 1 !!!!!
         </h1>
 
         <p className={styles.description}>
